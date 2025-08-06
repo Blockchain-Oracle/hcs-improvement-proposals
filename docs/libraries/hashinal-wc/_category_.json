@@ -1,9 +1,10 @@
 {
-    "label": "Hashinal Wallet Connect",
-    "position": 2,
-    "link": {
-      "type": "doc",
-      "id": "libraries/hashinal-wc/index"
-    },
-    "collapsible": true
-  }
+  "label": "Hashinal Wallet Connect",
+  "position": 2,
+  "link": {
+    "type": "doc",
+    "id": "libraries/hashinal-wc/index"
+  },
+  "collapsible": true,
+  "collapsed": false
+}
